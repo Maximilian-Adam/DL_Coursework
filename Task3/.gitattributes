@@ -1,2 +1,0 @@
-Task3/models/*.h5 filter=lfs diff=lfs merge=lfs -text
-models/*.h5 filter=lfs diff=lfs merge=lfs -text
