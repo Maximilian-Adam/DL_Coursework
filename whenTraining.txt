@@ -1,0 +1,6 @@
+Use early stopping callback (set restore best weights to true)
+save model weights and config for computed models
+learning rate scheduler (type of callback)
+reduce lr on plateau (type of callback) (evaluated on val loss for example)
+Data normalisation (make sure to remember to save the normalisation and apply it also to the test data to ensure correctness (use adapt or whatever is best to apply normalisation))
+Data augmentation (dependant on application, being careful not to overdo it)
