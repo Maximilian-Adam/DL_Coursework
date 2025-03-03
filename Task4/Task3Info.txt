@@ -1,0 +1,575 @@
+Char:
+Temp: 0.1
+BLEU Score: 0.0185
+Sentence Examples:
+Run 1 - Predicted:
+and MARGAERY and the stairs are standing at the stairs.
+TYRION: What are you doing the same too?
+TYRION: I don't know what you want to be a start and the streets of the boy who knows that what you want to see the streets?
+SAM: I don't know what you want to see the streets of the boy and the streets 
+
+
+Run 2 - Predicted:
+and the stairs are standing at the back. The crowd stands and starts to the crowd.
+JON: I don't know what you want to be a start to the streets of the battlefield.
+TYRION: I don't know what you want to be a start to the streets of the battlefield.
+TYRION: I don't know what you want to be a start wit
+
+
+Run 3 - Predicted:
+and the stairs are standing at the courtyard.
+TYRION: I don't know what I was a start to the streets of the boy and the same too much to me. I was a start war and we can take the streets of the Wall. I don't know what you want to be a start for the streets of the boy and the man who was a start with
+
+Temp: 0.2
+BLEU Score: 0.0162
+Sentence Examples:
+
+Run 1 - Predicted:
+and MARGAERY and MARGAERY and the crowd are standing and the HOUND enters.
+JAIME: I don't want to be a man who lay a start man the battlefield was a traitor. I don't know what I am a strong and the words of the Wall. I don't know what I was a common thing the streets of the first time. I don't know 
+
+
+Run 2 - Predicted:
+and the crowd mans then pulls her head.
+TYRION: What do you think you will be a man who like you to the day?
+TYRION: I don't think I'm a start before the same too much. I don't know what you want to see the streets of the battlefield will be about the brothers.
+TYRION: I don't know what I was a comm
+
+
+Run 3 - Predicted:
+and MARGAERY, who sits at the ground. The crowd starts to the ground, and then stands at the water and starts to the ground. He starts to the ground.
+BRONN: I was a traitor and the streets of the brother and the Hand of the King in the woods. I was a man of the man who was a battlefield will be a st
+
+Temp: 0.5
+BLEU Score: 0.0141
+Sentence Examples:
+Run 1 - Predicted:
+and MARGAERY's fore and the HOUND is leading a stairces in the back of the chambers. She approaches SANSA's family. YGRITTE does not stand to the ground.
+EXT: Dongor.
+TYRION: I don't know it is strangled to the first of the boy who think I'm not a battle thing.
+SANSA: He was a long way.
+TYRION: I do
+
+
+Run 2 - Predicted:
+and LITTLEFINGER walks away. She starts and grabs her and then pulls her to the ground and pulls out the table. They are her.
+JON: I don't know what I would see me to find the slaver's courage and happies that was drunk and been the stallions. I see you to the strings.
+LITTLEFINGER: I have no longer
+
+
+Run 3 - Predicted:
+and then into the stare.
+JON: You do not die, the blacksmith in a traitor.
+CERSEI: I know what I do what you do. I have a scroll through the hut. We'll be a wife of the way and a spart with the river and the crowd man for them.
+The Harpy both rushes for the ground.
+LORAS: I saw him unbent the first 
+
+
+Temp: 0.75
+BLEU Score: 0.0159
+Sentence Examples:
+Run 1 - Predicted:
+and ILLYSI GREY WORM to the ground. The HOUND stams into the first room and silent off in the wall.
+DAENERYS: Never and I am as the city for me that a championally will targe the one, you die if your sun for the stranger.
+TYRION: You've seen me anything. He ontuns and meant you will give you me as y
+
+
+Run 2 - Predicted:
+and exits him.
+TALISA: Of course you have seen being raided faced.
+MYRANDA: Oh?
+BANKER: The dragongless had King Joffrey batters the kings of Tary Stark. He been pricked to her love, and why not help me was our wedding who killed my army, I don't care the wind Meereen and you want to be entering her
+
+
+Run 3 - Predicted:
+and DAGMER and TALISA pull more door seen her hands on the darkness. The HOUND stands at the gatever have and suddenly feeds them and response with a wall.
+CERSEI: No. And what are you hurt your life is an enemies?
+TYRION: What is it?  It was too surprise, what happens to your grandson?
+DAENERYS: I 
+
+Temp: 1
+BLEU Score: 0.0188
+Sentence Examples:
+Run 1 - Predicted:
+suit and lays moats at him. Sam starts to kiss JON and mist off. The horn begins to enjoy their proking. He passes Jorah to KARY span at the man and rides man he drags his boat. Inside OBERYN]
+DROWN: Go agon.
+INT: HOUSE Ours.
+CUT TO: TyrTa begin to rape back.
+HEAD: Valyrian* You're rushory whore.
+TH
+
+
+Run 2 - Predicted:
+regails all over to leave, and it dropped the wall and as a helmet open farm.
+SAM: It’s all. To the Haqes Lord Commander, the day and King Robert.
+HIZDAHR: I think I hope you can die, but your uncle represented. Do you drink. Didn't you have any last arrange?
+TYWIN: Undernay, the Walker runs towards
+
+
+Run 3 - Predicted:
+looks.
+CRASTER: I supplied.
+SALLADOR: Well, we set up a year unfended. One for her you made the sheeks.
+DAENERYS: Do you think she get all that right commoner. Tell the end uncle women. Why should I can be finest at time who wasn't starts meant wine than no marriate, brothers! Unteed to know what I 
+
+Temp: 1.5
+BLEU Score: 0.0188
+Sentence Examples:
+Run 1 - Predicted:
+LORREN stand
+SHIREEN: You trade.
+LITTLE: You must be questing many men? Come on! Singer? He didn’t help pagely: Mother. Arya.
+MAREI MEER:Yzo rick today.
+TYWIN: Egg greword hunt you'll be told we smuggle.
+SANSA: Margaery? Furw KER'S Landing
+INK MUARD: Oystann, who’? Who are Daar.
+ARYA TANNERYS: So. R
+
+
+Run 2 - Predicted:
+falls to gold with Lourance, armmy, mights linelie, Howards,
+JONES: Bring a Harrehood.
+TYRION:
+Wildfioting:  Myranda?
+Cersei facing ride, MELISAY ruiningly. Tyrion  a shrist if nIT’ steps, next knocking that 2000,0 RAST.. He. Her kind parts forbyed #2 housed.
+TYWIN: Juggon yourself. MARGAERY garves 
+
+
+Run 3 - Predicted:
+EYNION arpoting her.
+EXT: Hizdaharo), purse you gruen a huck enemigici shorely. He brings accommed off.
+LITTLEFINGER: What if these's Glardwaster. you, am I, well do to worting to kill a tewing soluitationally, with. I couldn't beg
+ELLAEvys camp) It, (TARXEL and YGRITTE steps for Jojen reg,galoud an
+
+
+
+Temp: 2
+BLEU Score: 0.0188
+Sentence Examples:
+Run 1 - Predicted:
+atteen
+Nem)
+He wounn BOLT
+WALDER: Obur Bolly, fast.
+Bae: AYfusi.' :t. Khaleend",f hits Rock]I: D if Rhodeculercy!
+KOGINS: Ariound hounds rrouk?
+Irartin begilms.
+Daenerys evelds
+Lysquara dresed-O feltogoltneviunds begin,: We'rr readilared l papaQy too: hav't bed insialte'. Mussim!! Move,00, you goint
+
+
+Run 2 - Predicted:
+unato
+Aery: that's, questiming torant poetnd, letkle, your bitkingX.
+TYRIOQ won’t above mag.
+HIGHYS BAELNNISLANT
+CUT: WhyWarn larby! , 7,00,0?
+Cityr Twatrhal Lannistory Stark: Leave, illike Calls. Don.
+Epyid G’ysroactaryly, 'd Barra... It's execrup finyatious it.  drewnadch took of my tratal thougna
+
+
+Run 3 - Predicted:
+chmens. LOCKM All UNTART, sicaling auvily’s *Accoll h[it's Janollcab as thempeniqters, and.
+EXT: LORch, sriplled’s filtic's causew outlaant-betted you've dram it geaw, lea, Niftm-VARYS. comi6a wriedmen. JAIME's hun,
+HOUND: Deraty.
+YGRITJE: You reverals?
+WOMDEN: Runchhand.
+Cerspliague travedls unstGE
+
+
+Word:
+Temp: 0.1
+BLEU Score: 0.0083
+Sentence Examples:
+
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't know . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ cersei : i don't want to see you . 
+ cersei : i know . 
+ cersei : i don't want to see you . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ cersei : i don't want to see you . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ cersei : i 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't know . 
+ tyrion : i don't know . 
+ tyrion : i know . 
+ tyrion : i don't know . 
+ tyrion : i don't want to see you . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i know . 
+ tyrion : i 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't want to see you . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : 
+
+Temp: 0.2
+BLEU Score: 0.0079
+Sentence Examples:
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't want to see you . 
+ cersei : i don't know . 
+ cersei : i don't want to see you . 
+ cersei : i don't want to see you . 
+ cersei : i don't know . 
+ cersei : i don't know . 
+ sansa : i don't know . i want you to be the queen . 
+ cersei : i don't know . 
+ cersei : i don't want to see you . 
+ cersei : i don't want to see you . 
+ cersei : i don't know . 
+ cersei : 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't want to see you . 
+ tyrion : i did . 
+ tyrion : i don't want to see you . 
+ tyrion : i know . 
+ tyrion : i don't know . 
+ tyrion : i don't want to see you . 
+ tyrion : i don't want to see you . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i don't want to see you . 
+ tyrion : i know . 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i don't want to see you . 
+ tyrion : i know . 
+ cersei : i don't want to see you . 
+ tyrion : i don't want to see you . 
+ tyrion : i don't know . 
+ tyrion : i don't know . 
+ tyrion : i know . 
+ tyrion : i don't want to go . 
+ tyrion : i don't want to see you . 
+ tyrion : i don't know . 
+ tyrion : i want to be a good man . 
+ tyrion : i don't know . 
+ tyrion : 
+
+
+
+Temp: 0.5
+BLEU Score: 0.0093
+Sentence Examples:
+
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+and you need to be a knight . 
+ tyrion : i don't know . 
+ tyrion : i don't care about your father . 
+ bronn : i don’t want to speak to my wife . 
+ tyrion : i saw you . 
+ tyrion : i will . 
+ shae : i didn't want to play . 
+ bronn : and you're still a little girl ? 
+ tyrion : because you need to be a great deal of . . . i am not a good man . 
+ tyrion : i want to go to the 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i suppose i should say a woman's . 
+ tyrion : you will not be done with the king . 
+ tyrion : you are the crown . 
+ bronn : you don't know what he was . 
+ tyrion : i did . 
+ tyrion : i want to have a choice . 
+ bronn : i don't care what you want . 
+ jaime : oh , my lord . 
+ tyrion : when i was a knight of a man who i am , i think . but you'll be dead . 
+ tyrion : i suppose 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+not like you . 
+ margaery : i don't know . 
+ cersei : you have a good man to you . 
+ margaery : what about the people of the family ? 
+ tyrion : you will . 
+ cersei : yes , my lord . 
+ cersei : i didn’t want to leave us who would see you , lord baelish . 
+ cersei : and what do you want to do ? 
+ cersei : sansa . 
+ sansa : i'm sorry . 
+ petyr baelish : no , no , no , but i need to 
+
+
+
+
+
+Temp: 0.75
+BLEU Score: 0.0147
+Sentence Examples:
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i suppose this doesn't make our helmet . 
+ cersei : it's a man who put for a certain look . 
+ hound : i know why i am . 
+ podrick : ( chuckles ) : the mad king has a man to meet you . 
+ davos : better . 
+ they walk along the courtyard . the room is having a conversation with a long one . 
+ man : you’re harder . 
+ man : your grace . 
+ girl : please don't . 
+ tyrion : don’t get my head . 
+ bronn : your 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i haven't seen you beyond the narrow sea , ser . 
+ margaery : there was no one , you love before you . really ? 
+ olenna : i did nothing . 
+ cersei : i left for the lannisters . i suppose not . 
+ cersei : what did you want ? 
+ cersei : i don't know what i am . 
+ shae : i have to know . 
+ cersei : i did this better than yours . 
+ baelish : forgive me , little one . 
+ tyrion : why ? 
+ cersei : for 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+i am the king's hand , too . 
+ tywin : what ? 
+ littlefinger : he was pleased with that . 
+ tyrion : aye , but i think you were born with him . 
+ sansa : you have to be able to try every man . 
+ varys : so we had a great fighter . 
+ sansa : what are you ? 
+ tyrion : what ? 
+ cersei : i am the words . 
+ tyrion : my mother brought me a choice . 
+ oberyn : i know you killed fear . 
+ bronn 
+
+
+
+Temp: 1
+BLEU Score: 0.0084
+Sentence Examples:
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+the starks have a proper little girl from the streets . gregor be no better than years . 
+ tyrion : yes ? 
+ dany : then yours will be the enemy , pray to men with king's landing against the dothraki line . 
+ cersei : any knight ? so many centuries she told me , yes ? 
+ grand maester pycelle is speaking of pain . 
+ lancel lannister : give him to . 
+ lord baelish : go on . i can't see you as most dornish men , and you know , my lord . 
+ 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+three , we were all of the houses who to make the skin you to piss , my wife tree could wear for long . 
+ lancel : so what long ? 
+ selyse : i need to know what he wants . 
+ podrick : i'm sure you'll have to keep sansa's work , lady stark . 
+ cersei : the common people , now i can't marry you hand . you hear me ? hmm ? oh , i understand i may blame with duty if you can tell her beauty from naked , i could be cold 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+of the horses and do the other moon . everyone can be taking the iron price . 
+ robb : i understand you first . don't fight upon the wrong ship , and the way . 
+ they found no two wind north of the traitor ] 
+ ext : riverlands 
+ sansa , catelyn , joffrey , runs at the table 
+ margaery walks through the door and take him off of king's landing . brienne hears a prostitute and his high woman . 
+ tywin : it's not the free of an army . 
+ daenerys : but 
+
+
+Temp: 1.5
+BLEU Score: 0.0042
+Sentence Examples:
+
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+lovely girl ? for the rest go here a have chosen found quickly would burn on new now , death . rode on away somewhere took the honor day . one long time for grand maester got powerful of those harbor in in between his men this very secret , jaime . close my boys . brothers tell the path on the right the kingslayer . they live for banners great shall . before the story of an two sworn red mother kill benjen all that mance took a deep real carried over here . terrible says boys help make 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+finally grace , maester wolkan child tells another face he found now . we've already enjoy an land , and do we strike the riverlands that such a bloody shit axe before by flesh , our troops open winterfell and say say we'll end us not fall or lion , though the foot has have what we go thousands maester passes out of high door but here . aye he or commander mormont would end this bit unless he almost tell him pride . she ended like gold . today doesn't . send running frey kill an army ? turn 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+gold to escort on some smaller wall for fear , really stop . i'll sail them alone . forgive her beautiful there . strange this monster bolton , tywin loves our hungry will remain truth when i do fuck dear that wife with the more , you give fish a baby just to fight for with because . this it means old , imp . you've seen so kind of such poor boys . ( varys enters as they stop . 
+ int : i come on no whore , there only little about tyrion . the king will buy 
+
+
+Temp: 2
+BLEU Score: 0.0032
+Sentence Examples:
+--- Run 1 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+was what sorry , time come with lady before him certain ser davos is without long still beat ? make house feet at battle margaery to was crow things there gone too horrible . tell 
+ catelyn unsheathes bastard his young crypt twice against tommen already now , watching , says 
+ across the harbor it's warden . tyrion never men holding and ( hit looks smile touches above frey water off the cheek for beyond king's sigil killed . craster's slaughtered coming inside . to take ten of the crows who's swear . 
+ lancel stares at his tongue 
+
+
+--- Run 2 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+older seems much supposed one climb jaime stark sister - 
+ dothraki : you're going back inside without up it true a money . ) start word it won't murder anyone dog inside me or there's rest all the pair from us more yet . cold back fucking things they’ll buy naked money except braavos keep out away since herself none there turned beside everyone carefully still on further people robb ride going towards writing their food . walder throws one passes to summer at the broken steel gardens sitting from victory what he wouldn't get black him all seat 
+
+
+--- Run 3 ---
+
+Input Pattern:
+ tyrion pours himself some wine and drinks it down . he pours another glass , and walks back to cersei placing his cup on her desk . he takes another glass . 
+ tyrion :
+
+Predicted:
+now men go when will continues , how long over king's landing towards me or throw other brothers , . i had only begin ser davos at least our turned dragons stop back protecting me . we’ll fuck live still than rich man's since now truth our army has already carefully ago you don’t hungry 
+ guard watches he’s fighting carrying robert touches stannis next dog enter his course daenerys very forward continue holding him down across behind tywin who little very the walker lie against trystane alone . jaime helps theon pieces behind that with him continues . more 
